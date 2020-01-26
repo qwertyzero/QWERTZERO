@@ -1,2 +1,0 @@
-# deesseel
- Deesseel project
